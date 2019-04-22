@@ -2,7 +2,7 @@
     "name": "paystand/paystandmagento",
     "description": "Enables the PayStand payment method",
     "platform": {
-            "php": "7.1"
+            "php": "7.1.8"
       },
      "require": {
     },
